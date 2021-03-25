@@ -12,6 +12,7 @@ My path to becoming a Middle Java developer.
 * What is reflection and why is it useful?
 * Java memory
 * Java heap
+* Java RMI
 
 2. CI/CD
 * What is meant by Continuous Integration?
