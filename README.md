@@ -19,4 +19,10 @@ My path to becoming a Middle Java developer.
 * Docker Swarm or Kubernetes
 * Jenkins/Azure DevOps
 
-3. 
+3. General Development Skills
+* GIT/SVN
+* Solid principles, etc
+* Don't be afraid of using Google, [Power Searching with Google](https://www.codespaces.com/power-searching-with-google.html)
+* Java data structures, good understanding
+* Algorithms, good understanding
+* Java design patterns be able to apply in practice
